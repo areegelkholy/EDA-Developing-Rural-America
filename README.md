@@ -1,18 +1,20 @@
 # EDA-Developing-Rural-America
 
+
 # **Left Behind: Can Rural America Catch Up?**
 
 ## **Overview**
 This project analyzes the socioeconomic challenges faced by rural America compared to urban areas. Using various datasets, we explore critical issues such as poverty, unemployment, migration, and education. The analysis provides data-driven insights into the structural disadvantages of rural America and proposes actionable strategies to foster economic growth and sustainability.
+
+---
+
 
 ## **Introduction**
 Rural America, once the cornerstone of American society, now faces significant economic and social challenges. Declining industries, low population growth, and limited access to education and healthcare have perpetuated cycles of poverty and stagnation. This project aims to:
 - Understand the historical and current economic state of rural America.
 - Highlight disparities between rural and urban areas.
 - Propose solutions to revitalize rural economies and improve quality of life.
-  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/corr_matrix_all.png" width="50%"/>
 
-  
 ---
 
 ## **Report Specifications and Justifications**
@@ -27,39 +29,49 @@ The variables chosen provide a comprehensive understanding of rural America’s 
 ---
 
 ## **Analysis**
-Key findings include:
-1. **Correlation Analysis**:
-   - Positive correlation between poverty rates and unemployment.
-   - Negative correlation between unemployment and GDP per capita.
 
-2. **Demographic Trends**:
-   - Rural areas show aging populations and significant population decline, contributing to labor shortages and limited economic growth.
+### **1. Correlation Analysis**
+- **Findings**:  
+  Positive correlation between poverty rates and unemployment; negative correlation between unemployment and GDP per capita.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/corr_matrix_all.png" width="50%"/>
 
-3. **Educational Attainment**:
-   - Urban areas have higher levels of college graduates, whereas rural areas lag behind with more residents having only a high school diploma or less.
+### **2. Demographic Trends**
+- **Aging Populations**:  
+  Rural areas have higher percentages of aging populations, leading to labor shortages and reduced economic growth.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/Age_dist_map_urban.png" width="50%"/>
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/age_dist_urban.png" width="50%"/>
 
-4. **Industry Trends**:
-   - Rural economies are over-reliant on declining industries (e.g., mining, manufacturing).
-   - High-performing counties diversify into sectors like agriculture and services.
+- **Migration**:  
+  Rural areas experience higher population loss compared to urban areas.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/population_loss.png" width="50%"/>
 
-5. **Visualizations**:
-   - Heatmaps, time-series graphs, and box plots illustrate disparities in education, population, and sectoral employment between rural and urban areas.
+### **3. Educational Attainment**
+- Urban areas have a higher proportion of residents with college degrees or higher, whereas rural areas lag significantly.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/comparison_of_edu_levels.png" width="50%"/>
+
+### **4. Industry Trends**
+- Over-reliance on declining industries like mining and manufacturing in rural counties.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/employment_in_each_sector_good.png" width="50%"/>
 
 ---
 
 ## **Proposed Solutions**
-1. **Attracting the Creative Class**:
-   - Focus on attracting professionals in creative fields (e.g., architects, engineers, artists) to boost innovation and economic growth.
-   - Encouraging local entrepreneurship to create job opportunities.
 
-2. **Leveraging Natural Amenities**:
-   - Counties with high natural amenities (e.g., warm climates, scenic landscapes) should promote tourism and recreational activities to attract investment and talent.
+### **1. Attracting the Creative Class**
+- Encourage professionals in creative fields to boost innovation and economic growth.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/creative_class.png" width="50%"/>
 
-3. **Shifting from Declining Industries**:
-   - Reduce reliance on mining and traditional manufacturing, focusing instead on knowledge-intensive industries, advanced agriculture, and services.
+### **2. Leveraging Natural Amenities**
+- Utilize natural resources like scenic landscapes to promote tourism and attract investment.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/amenity_distribution.png" width="50%"/>
 
-4. **Investing in Education**:
-   - Expand access to higher education and technical training to improve workforce quality and retain local talent.
+### **3. Shifting from Declining Industries**
+- Transition from mining and traditional manufacturing to knowledge-intensive industries.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/county_typology_map.png" width="50%"/>
+
+### **4. Investing in Education**
+- Expand access to higher education to build a skilled and innovative workforce.  
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/edu_levels_by_county_type.png" width="50%"/>
 
 ---
 
@@ -75,5 +87,5 @@ Rural America faces a self-perpetuating cycle of economic decline. However, data
 - Hirschman, Charles, and Elizabeth Mogford. *Immigration and the American Industrial Revolution.* 2009.  
 
 For full references, see the report.
----
 
+---
