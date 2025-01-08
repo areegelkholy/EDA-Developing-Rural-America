@@ -86,6 +86,6 @@ Rural America faces a self-perpetuating cycle of economic decline. However, data
 - USDA Economic Research Service. *Natural Amenities Scale.* 2024.  
 - Hirschman, Charles, and Elizabeth Mogford. *Immigration and the American Industrial Revolution.* 2009.  
 
-For full references, see the report.
+For full references and findings, see the report.
 
 ---
