@@ -16,8 +16,11 @@ Rural America, once the cornerstone of American society, now faces significant e
 - Propose solutions to revitalize rural economies and improve quality of life.
 
 ---
+## Dataset 
+The Dataset is named Atlas of Rural and Small-Town America and can be found here.
+Link : https://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america/
 
-## **Report Specifications and Justifications**
+## **Report Specifications **
 The analysis uses data categorized into the following:
 - **Income Data**: Examining poverty rates and per capita income to highlight economic disparities.
 - **Jobs Data**: Tracking unemployment trends and sectoral employment rates.
@@ -87,5 +90,6 @@ Rural America faces a self-perpetuating cycle of economic decline. However, data
 - Hirschman, Charles, and Elizabeth Mogford. *Immigration and the American Industrial Revolution.* 2009.  
 
 For full references and findings, see the report.
+
 
 ---
