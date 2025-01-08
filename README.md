@@ -10,7 +10,9 @@ Rural America, once the cornerstone of American society, now faces significant e
 - Understand the historical and current economic state of rural America.
 - Highlight disparities between rural and urban areas.
 - Propose solutions to revitalize rural economies and improve quality of life.
-  src = "https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/corr_matrix_all.png"
+  <img src="https://github.com/areegelkholy/EDA-Developing-Rural-America/blob/main/charts/corr_matrix_all.png" width="50%"/>
+
+  
 ---
 
 ## **Report Specifications and Justifications**
